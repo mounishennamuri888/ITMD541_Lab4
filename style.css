@@ -61,7 +61,7 @@ input {
 }
 
 /* Style the 'Today' and 'Tomorrow' sections */
-#today, #tomorrow {
+#todays, #tomorrow {
     width: 48%; /* Adjust the width as needed */
     flex-grow: 1; /* Allow the sections to grow within the flex container */
 }
